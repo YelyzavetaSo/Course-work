@@ -1,0 +1,28 @@
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\Railway Ticket Office.exe.config
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\Railway Ticket Office.exe
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\Railway Ticket Office.pdb
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\obj\Debug\Railway Ticket Office.csprojAssemblyReference.cache
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\obj\Debug\Railway Ticket Office.csproj.CoreCompileInputs.cache
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\obj\Debug\Railway Ticket Office.exe
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\obj\Debug\Railway Ticket Office.pdb
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\PL.dll
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\BLL.dll
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\DAL.dll
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\PL.pdb
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\BLL.pdb
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\bin\Debug\DAL.pdb
+C:\НАУ\3 семест\Курсова робота\Railway Ticket Office\obj\Debug\Railway Ticket Office.csproj.CopyComplete
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\Railway Ticket Office.exe.config
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\Railway Ticket Office.exe
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\Railway Ticket Office.pdb
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\PL.dll
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\BLL.dll
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\DAL.dll
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\PL.pdb
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\BLL.pdb
+C:\NAU\3 semestr\Course work\Railway Ticket Office\bin\Debug\DAL.pdb
+C:\NAU\3 semestr\Course work\Railway Ticket Office\obj\Debug\Railway Ticket Office.csprojAssemblyReference.cache
+C:\NAU\3 semestr\Course work\Railway Ticket Office\obj\Debug\Railway Ticket Office.csproj.CoreCompileInputs.cache
+C:\NAU\3 semestr\Course work\Railway Ticket Office\obj\Debug\Railway Ticket Office.csproj.CopyComplete
+C:\NAU\3 semestr\Course work\Railway Ticket Office\obj\Debug\Railway Ticket Office.exe
+C:\NAU\3 semestr\Course work\Railway Ticket Office\obj\Debug\Railway Ticket Office.pdb
